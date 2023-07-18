@@ -18,3 +18,18 @@ body {
     margin-right: auto;
     width: 50%;
   }
+ 
+  .specs {
+    font-size: 15pt;
+    color: red;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  #mainheading {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
